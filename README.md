@@ -1,5 +1,6 @@
 # employees_attrendence_project_python
 objectives
+
 average number of absent days.
 
 Employees who were never absent.
